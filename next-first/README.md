@@ -1,1 +1,1 @@
-#### Criando um projeto com NextJS
+#### Páginas Dinâmicas
